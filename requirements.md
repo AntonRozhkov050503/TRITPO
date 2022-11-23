@@ -78,7 +78,7 @@
 Окно добавления расписания:  
 ![](mockup/addition.png)  
 Окно редактирования:
-![](mockup/filter.png)  
+![](mockup/f1lter.png)  
 Окно вывода информации:
 ![](mockup/info.png)  
 
